@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj Sahu
 - 👀 I’m interested in Java full-stack development.
-- 🌱 I’m currently learning Angular, Spring Boot.
+- 🌱 I’m currently learning Angular, ReactJS.
 - 💞️ I’m looking to collaborate on projects related to java.
 - 📫 anujsah572@gmail.com
 
